@@ -1,5 +1,3 @@
-# Simple AI Chatbot
-
 def chatbot():
     print("AI Chatbot: Hello! Type 'bye' to exit.")
 
@@ -25,5 +23,4 @@ def chatbot():
         else:
             print("AI Chatbot: Sorry, I don't understand that.")
 
-# Run chatbot
 chatbot()
